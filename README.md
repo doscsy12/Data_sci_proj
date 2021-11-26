@@ -8,6 +8,5 @@ Gross domestic product (GDP) is a measure of the market value of all the final g
 In this project, one will examine how changes in GDP impact the unemployment rate. 
 
 ## 2. Data Cleaning tutorial
-<br>
 Data cleaning is important to identify and remove errors & duplicate data, in order to create a reliable dataset. This improves the quality of the training data for analytics and enables accurate decision-making.
 
