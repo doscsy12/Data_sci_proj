@@ -6,3 +6,8 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 Gross domestic product (GDP) is a measure of the market value of all the final goods and services produced in a period. GDP is an indicator of how well the economy is doing. A drop in GDP indicates the economy is producing less; similarly an increase in GDP suggests the economy is performing better. 
 
 In this project, one will examine how changes in GDP impact the unemployment rate. 
+
+## 2. Data Cleaning tutorial
+<br>
+Data cleaning is important to identify and remove errors & duplicate data, in order to create a reliable dataset. This improves the quality of the training data for analytics and enables accurate decision-making.
+
