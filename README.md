@@ -1,5 +1,11 @@
 # General data science notebooks
 
+| notebooks              | description                               |
+|------------------------|-------------------------------------------|
+| us_economy_dashboard   | analyzing US economy, and build dashboard |
+| data_cleaning_tutorial | data cleaning                             |
+| intro_to_clustering    | clustering (KNN, Kmeans)                  |
+
 ## 1. Analyzing US Economic Data and Building a Dashboard
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, one will have to extract some essential economic indicators from some data, then display these economic indicators in a Dashboard. One can then share the dashboard via an URL.
 
