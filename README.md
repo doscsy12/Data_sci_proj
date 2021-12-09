@@ -18,12 +18,12 @@ In this notebook, one will examine how changes in GDP impact the unemployment ra
 ## 2. Data Cleaning tutorial
 Data cleaning is important to identify and remove errors & duplicate data, in order to create a reliable dataset. This improves the quality of the training data for analytics and enables accurate decision-making.
 
-## 3 Clustering tutorial
+## 3. Clustering tutorial
 The aims of this tutorial: -
 - Explore sklearn - A popular python package that is used to build ML models
 - Explore iris dataset
 - Use supervised learning algorithm (KNN) to classify
 - Use unsupervised learning algorithm (Kmeans) to do clustering
 
-## 4 TensorBoard tutorial
+## 4. TensorBoard tutorial
 Exploring interactive machine learning model dashboard that can be used to better understand and analyze the importance factors in which the model works, or for visualisations. 
