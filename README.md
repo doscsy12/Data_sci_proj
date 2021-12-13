@@ -6,7 +6,7 @@
 | data_cleaning_tutorial | data cleaning                             |
 | intro_to_clustering    | clustering (KNN, Kmeans)                  |
 | MNIST_TensorBoard      | Using TensorBoard                         |
-
+| Tic_tac_toe_game       | Tic tac toe game in python                |
 
 ## 1. Analyzing US Economic Data and Building a Dashboard
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, one will have to extract some essential economic indicators from some data, then display these economic indicators in a Dashboard. One can then share the dashboard via an URL.
@@ -27,3 +27,6 @@ The aims of this tutorial: -
 
 ## 4. TensorBoard tutorial
 Exploring interactive machine learning model dashboard that can be used to better understand and analyze the importance factors in which the model works, or for visualisations. 
+
+## 5. Tic tac toe game
+Practice python session where the aim is to create a Tic Tac Toe game.
