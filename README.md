@@ -1,4 +1,4 @@
-# General data science notebooks
+# General python/ data science notebooks
 
 | notebooks              | description                               |
 |------------------------|-------------------------------------------|
