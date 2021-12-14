@@ -33,6 +33,6 @@ The aims of this tutorial: -
 - Use unsupervised learning algorithm (Kmeans) to do clustering
 
 ## 6. TensorBoard tutorial
-Exploring interactive machine learning model dashboard that can be used to better understand and analyze the importance factors in which the model works, or for visualisations. 
+Exploring interactive machine learning model dashboard that can be used to better understand and analyze the important factors in which the model works, or for visualisations. 
 
 
